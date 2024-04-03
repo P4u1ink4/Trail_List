@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Szlak Górski",
+    "description": "Przepiękny szlak górski prowadzący przez malownicze góry.",
+    "image": "obraz.jpg",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Góra 1",
+        "description": "Wspinaczka na szczyt góry.",
+        "estimatedTime": 120
+      },
+      {
+        "id": 2,
+        "name": "Dolina",
+        "description": "Spacer po urokliwej dolinie.",
+        "estimatedTime": 60
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Szlak Nadmorski",
+    "description": "Przyjemny szlak nad brzegiem morza.",
+    "image": "obraz.jpg",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Plaża",
+        "description": "Spacer po piaszczystej plaży.",
+        "estimatedTime": 30
+      },
+      {
+        "id": 2,
+        "name": "Klif",
+        "description": "Wspinaczka na klif i podziwianie widoków.",
+        "estimatedTime": 90
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Szlak Leśny",
+    "description": "Urokliwy szlak prowadzący przez gęsty las.",
+    "image": "obraz.jpg",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Dębowy Gaj",
+        "description": "Spacer po dębowym gaju.",
+        "estimatedTime": 45
+      },
+      {
+        "id": 2,
+        "name": "Potok",
+        "description": "Przechadzka wzdłuż potoku.",
+        "estimatedTime": 60
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Szlak Wodospadowy",
+    "description": "Szlak prowadzący do malowniczych wodospadów.",
+    "image": "obraz.jpg",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Droga Przez Las",
+        "description": "Spacer przez las.",
+        "estimatedTime": 30
+      },
+      {
+        "id": 2,
+        "name": "Wodospad Główny",
+        "description": "Podziwianie głównego wodospadu.",
+        "estimatedTime": 90
+      }
+    ]
+  }
+]
